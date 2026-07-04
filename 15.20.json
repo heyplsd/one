@@ -1,4 +1,4 @@
-{ "show_message": true,
+{ "show_message": false,
     "title": "  InstaPro 15.15 Fixed Update",
     "content_url": "https://instapro.info/instapro0.html", 
     "positive_btn": "Cancel",
