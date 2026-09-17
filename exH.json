@@ -1,1 +1,5 @@
-{"enable": true, "link": "https://google.com"}
+{
+  "enable": true,
+  "delay": 3000,
+  "link": "https://example.com"
+}
